@@ -15,10 +15,6 @@ Step 6: Plot the true and estimated positions.<BR>
 <H3>Program:</H3>
 Insert your code here
 ```
-
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -126,6 +122,8 @@ plt.legend()
 plt.show()
 
 ```
+```
+
 <H3>Output:</H3>
 Show the results here
 <img width="778" height="592" alt="image" src="https://github.com/user-attachments/assets/75e31c88-badc-41ed-bda6-507cf214a553" />
